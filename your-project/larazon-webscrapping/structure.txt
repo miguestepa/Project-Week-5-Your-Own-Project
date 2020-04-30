@@ -1,0 +1,9 @@
+Structure of the webscrapping itself:
+
+Start date: year/month/day
+End date: year/month/day
+
+For month in month:
+	for day in days:
+		for new (politics, social, national):
+		
